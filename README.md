@@ -2,6 +2,8 @@
 
 This demo showcases using AWS Bedrock with Claude to analyze infrastructure code and provide DevOps best practices recommendations.
 
+- Session slides: [Go + Amazon Bedrock for DevOps](https://docs.google.com/presentation/d/1l0V1Oa5rZkj7KMWENFTSVjmnA_6wAxFMU45fTxwvEjQ/edit?usp=sharing)
+
 ## Prerequisites
 
 - Go 1.21+
